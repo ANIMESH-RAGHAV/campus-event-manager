@@ -1,3 +1,5 @@
-# Campus Event Manager
-
-A centralized system to manage, schedule, and organize various campus events and coordinator responsibilities.
+# campus-event-manager
+LAB1
+USAGE
+## Usage
+Run the scripts to view and manage upcoming campus events.
